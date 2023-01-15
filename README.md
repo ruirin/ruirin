@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**ruirin/ruirin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  👩‍💻 I’m currently working on vehicle network & programming.
+  <h3>💻 Platforms & Languages 💻</h3>
+  <p>
+    <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+    <br>
+    <img src="https://img.shields.io/badge/DevExpress-FF7200?style=flat-square&logo=DevExpress&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Nuget-004880?style=flat-square&logo=Nuget&logoColor=white"/></a>&nbsp
+    <br>
+    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=flat-square&logo=Azure DevOps&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"></a>&nbsp
+  </p>
+  <h3>🏢 Partner Company 🏢</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Hyundai-002C5F?style=flat-square&logo=Hyundai&logoColor=white"></a>&nbsp
+    <img src="https://img.shields.io/badge/Kia-05141F?style=flat-square&logo=Kia&logoColor=white"></a>&nbsp
+  </p>
+</div>
